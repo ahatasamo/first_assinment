@@ -1,0 +1,154 @@
+.half{
+    width:40%;
+    margin: 30px;
+}
+
+.heading{
+    border-left: 3px solid red;
+    padding-left:5px;
+}
+.person{
+    width:400px;
+    height:400px;
+    display:block;
+    
+}
+.section{
+    display: flex;
+    margin:30px;
+    align-items: center;
+    margin-top:100px;
+    margin-bottom: 100px;
+}
+
+.stay{
+    font-size: 50px;
+}
+.mission{
+    font-size:50px;
+    color:tomato;
+}
+.btn-first{
+    width: 150px;
+    height:40px;
+    background-color: tomato;
+    border-radius: 5px;
+    
+}
+
+.btn-first a{
+    color:white;
+    text-decoration: none;
+    align-items: center;
+    padding: 10px;
+    justify-content: center;
+    
+    
+
+}
+
+.my-mission{
+    font-weight: bolder;
+    font-size: 50px;
+    text-align: center;
+    margin:0;
+}
+#mission{
+    color:violet;
+}
+
+#year{
+    color:tomato;
+}
+
+.cart{
+    width:30%;
+    margin-left: 30px;
+    margin-right: 20px;
+    
+    border-radius: 20px;
+    
+}
+.illustrator-image{
+    width:200px;
+    height:200px;
+    display: block;;
+}
+
+.heading-cart{
+    padding-left:10px;
+}
+
+.cart1{
+    background-color: lightgrey;
+}
+
+.cart2{
+    background-color: gray;
+}
+
+.cart3{
+    background-color:lightpink;
+}
+
+.left{
+    width:35%;
+    border-radius: 20px;
+    margin-left: 25px;
+    
+}
+
+.right{
+    width:50%;
+    margin-right:40px;
+}
+
+.coding-image{
+    width: 300px;
+    height: 300px;
+}
+
+.heading2{
+    font-size: 40px;
+    margin: 0;
+    font-weight: bold;
+}
+
+.btn-doc{
+    width:200px;
+    height: 30px;
+    color: white;
+    background-color: tomato;
+    border: none;
+    border-radius: 5px;
+}
+
+.app-image{
+    width:300px;
+    height:600px;
+}
+
+#corona{
+    color: tomato;
+}
+
+.safe{
+    font-weight: bolder;
+    font-size: 50px;
+    margin:0;
+}
+
+.footer{
+    background-color: black;
+    align-items: center;
+    text-align: center;
+    height:100px;
+    margin: 0 auto;
+}
+.footer h1, p{
+    font-style: italic;
+    color: white;
+    margin: 0;
+    
+}
+
